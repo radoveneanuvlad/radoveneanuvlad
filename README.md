@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/radoveneanuvlad">
-  <img src='https://i.postimg.cc/mrR5LWr7/tools.png' border='0' alt='tools'/>
+  <img src='https://i.postimg.cc/jSzR3T9f/tools-1.png' border='0' alt='tools'/>
   </a>
 </p>
