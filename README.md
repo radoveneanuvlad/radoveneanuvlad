@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/radoveneanuvlad">
-  <img src="https://imgur.com/NSlVMlt"/>
+  <img src="https://i.postimg.cc/rpJYzZd3/about-1.png"/>
     </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/armfuldev">
-  <img src="https://imgur.com/RwlS4JK"/>
+  <a href="https://github.com/radoveneanuvlad">
+  <img src='https://i.postimg.cc/mrR5LWr7/tools.png' border='0' alt='tools'/>
   </a>
 </p>
