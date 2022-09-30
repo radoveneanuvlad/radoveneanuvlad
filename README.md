@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://github.com/radoveneanuvlad">
-  <img src="https://i.postimg.cc/rpJYzZd3/about-1.png"/>
-    </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/radoveneanuvlad">
