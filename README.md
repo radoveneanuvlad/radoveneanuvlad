@@ -5,4 +5,6 @@
      </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoveneanuvlad)]
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoveneand)
+</p>
